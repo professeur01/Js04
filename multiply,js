@@ -1,0 +1,7 @@
+function multiply(nombre1, nombre2) {
+  return nombre1 * nombre2;
+}
+
+console.log(multiply(5, 10)); // affiche 50 dans la console
+
+module.exports = multiply
